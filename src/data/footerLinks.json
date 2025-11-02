@@ -1,0 +1,11 @@
+[
+    {
+        "iconSource": "/asset/other-icons/white-call.png",
+        "hoverIconSource": "/asset/other-icons/gold-call.png"
+    },
+    {
+        "iconSource": "/asset/other-icons/white-email.png",
+        "hoverIconSource": "/asset/other-icons/gold-email.png"
+    }
+
+]

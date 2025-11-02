@@ -1,0 +1,42 @@
+{
+    "profile" : {
+        "imgSrc": "/asset/images/image1c.jpg",
+        "title": "Our dedicated fleet for your transportation needs",
+        "moreImg": false,
+        "paraNextToTitle": "At High End Transport, we take pride in maintaining a <span>modern and versatile fleet that meets the diverse transportation needs of our clients.</span> Our carefully curated fleet consists of a variety of trucks and equipment, each designed to handle specific types of cargo and transportation requirements. We have the following truck types:</br><ul><li><b>Dry Vans:</b> Our dry van trucks are equipped with enclosed trailers, making them ideal for transporting goods that require protection from the elements. These trucks are commonly used for hauling non-perishable goods and general freight.</li><li><b>Refrigerated Trucks:</b> Our refrigerated trucks, also known as reefers, are equipped with temperature control systems. This allows us to transport temperature-sensitive goods such as perishable foods, pharmaceuticals, and other items that require a specific climate range.</li></ul>",
+        "titleNextToContact": "Contact us today!",
+        "paraNextToContact": "At High End Transport, our fleet represents our dedication to providing reliable, efficient, and safe transportation solutions. We continuously invest in maintaining and updating our fleet to meet the evolving needs of the industry and exceed the expectations of our clients. Contact us today to learn more about how we can support your transportation needs."
+    },
+    "dry" : {
+        "imgSrc": "/asset/truck-images/sunset-truck.jpg",
+        "title": "Dry Vans",
+        "moreImg": false,
+        "paraNextToTitle": "Our dry van trucks are equipped with enclosed trailers, making them ideal for transporting goods that require protection from the elements. These trucks are commonly used for hauling non-perishable goods and general freight. ",
+        "titleNextToContact": "Contact us today!",
+        "paraNextToContact": "At High End Transport, our fleet represents our dedication to providing reliable, efficient, and safe transportation solutions. We continuously invest in maintaining and updating our fleet to meet the evolving needs of the industry and exceed the expectations of our clients. Contact us today to learn more about how we can support your transportation needs."
+    },
+    "refrigerated" : {
+        "imgSrc": "/asset/images/image3.jpg",
+        "title": "Refrigerated Trucks",
+        "moreImg": false,
+        "paraNextToTitle": "Our refrigerated trucks, also known as reefers, are equipped with temperature control systems. This allows us to transport temperature-sensitive goods such as perishable foods, pharmaceuticals, and other items that require a specific climate range.",
+        "titleNextToContact": "Contact us today to know more!",
+        "paraNextToContact": "At High End Transport, our fleet represents our dedication to providing reliable, efficient, and safe transportation solutions. We continuously invest in maintaining and updating our fleet to meet the evolving needs of the industry and exceed the expectations of our clients. Contact us today to learn more about how we can support your transportation needs."
+    },
+    "features-and-safety" : {
+        "imgSrc": "/asset/images/image2c.jpg",
+        "title": "Features and safety of our fleets",
+        "moreImg": false,
+        "paraNextToTitle": "Our fleet is equipped with advanced safety features, including:</br><ul><li><b>Collision Avoidance Systems:</b> These systems use sensors to detect obstacles and help prevent accidents.</li><li><b>Electronic Logging Devices (ELDs):</b> ELDs ensure our drivers adhere to hours-of-service regulations, promoting driver well-being and road safety</li><li><b>GPS Tracking:</b> Real-time tracking allows us to monitor the location of shipments, ensuring timely deliveries.</li><li><b>Anti-Lock Braking System (ABS):</b> ABS helps drivers maintain control during sudden braking, reducing the risk of skidding.</li></ul>",
+        "titleNextToContact": "contact us today!",
+        "paraNextToContact": "<span>Discover the difference that a decade of dedication can make.</span></br></br> Contact us today to explore how High End Transport can cater to your transportation needs with unwavering commitment and professionalism."
+    },
+    "maintenance" : {
+        "imgSrc": "/asset/images/image4c.jpg",
+        "title": "Maintenance and Sustainability",
+        "moreImg": false,
+        "paraNextToTitle": "We prioritize regular maintenance to ensure our fleet operates at optimal efficiency. Well-maintained vehicles not only enhance safety but also contribute to reduced emissions and a smaller carbon footprint. Our commitment to sustainability is reflected in our efforts to adopt fuel-efficient technologies and reduce environmental impact.",
+        "titleNextToContact": "we care about the environment",
+        "paraNextToContact": "Recognizing our role in sustainability, we strive to minimize our carbon footprint. Our commitment to eco-friendly practices ensures responsible transportation that respects the environment. Contact us today to learn more about how we can support your transportation needs."
+    }
+}

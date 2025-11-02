@@ -1,0 +1,76 @@
+.text-on-top{
+    margin: 100px 100px;
+    text-align: center;
+    font-size: 1.1rem;
+    line-height: 1.5rem;
+}
+
+.temp{
+    margin-top: 50px;
+    text-align: center;
+    width: 100%;
+}
+
+.map{
+    margin: 20px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 5px;
+
+}
+
+.contact-info{
+    margin:  auto;
+    font-size: 1.1rem;
+    line-height: 1.5rem;
+    padding-bottom: 50px;
+    padding-left: 150px;
+    color: black;
+}
+
+.contact-info > p{
+    margin: 20px 0px;
+}
+
+p > a{
+    text-decoration: none;
+    color: black;
+}
+
+@media screen and (max-width: 1000px){
+    .text-on-top{
+        margin: 50px 50px 75px 50px;
+    }
+
+    .map{
+        display: flex;
+        flex-direction: column;
+    }
+
+    iframe{
+        width: 100%;
+    }
+
+    .contact-info{
+        padding-left: 0px;
+    }
+}
+
+@media screen and (min-width: 1200px){
+    .text-on-top{
+        margin: 100px 200px;
+        font-size: 1.2rem;
+    }
+}
+
+@media screen and (min-width: 1500px){
+    .text-on-top{
+        margin: 100px 300px;
+    }
+}
+
+@media screen and (min-width: 1800px){
+    .text-on-top{
+        margin: 100px 400px;
+    }
+}

@@ -1,0 +1,30 @@
+[
+    {   
+        "key": "11",
+        "cardHeadings" : "Local \n Services",
+        "pictureSrc" : "/asset/truck-images/blue-front-truck-filled.png",
+        "hoverPictureSrc" : "/asset/truck-images/white-front-truck-filled.png",
+        "path": "/services/local"
+    },
+    {
+        "key": "12",
+        "cardHeadings" : "Shunting \n Services",
+        "pictureSrc" : "/asset/truck-images/blue-side-truck-filled.png",
+        "hoverPictureSrc" : "/asset/truck-images/white-side-truck-filled.png",
+        "path": "/services/shunting"
+    },
+    {
+        "key": "13",
+        "cardHeadings" : "Linehaul \n Services",
+        "pictureSrc" : "/asset/truck-images/blue-front-truck-filled.png",
+        "hoverPictureSrc" : "/asset/truck-images/white-front-truck-filled.png",
+        "path": "/services/linehaul-ontario-and-quebec"
+    },
+    {
+        "key": "14",
+        "cardHeadings" : "Our \n Advantage",
+        "pictureSrc" : "/asset/truck-images/blue-side-truck-filled.png",
+        "hoverPictureSrc" : "/asset/truck-images/white-side-truck-filled.png",
+        "path": "/services/advantage"
+    }
+]

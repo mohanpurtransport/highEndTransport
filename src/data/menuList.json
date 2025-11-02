@@ -1,0 +1,106 @@
+[
+    {   
+        "index" : 0,
+        "menuName" : "About",
+        "moreRoutes" : true,
+        "path" : "/about/profile",
+        "subRoutes" : [
+            {
+                "index" : 11,
+                "menuName" : "Profile",
+                "moreRoutes" : "no",
+                "path" : "/about/profile"
+            },
+            {
+                "index" : 12,
+                "menuName" : "Safety & Compliance",
+                "moreRoutes" : "no",
+                "path" : "/about/safety-and-compliance"
+            },
+            {
+                "index" : 13,
+                "menuName" : "Our Strengths",
+                "moreRoutes" : "no",
+                "path" : "/about/strengths"
+            }
+        ]
+    },
+    {
+        "index" : 1,
+        "menuName" : "Services",
+        "moreRoutes" : true,
+        "path" : "/services/shunting",
+        "subRoutes" : [
+            {
+                "index" : 21,
+                "menuName" : "Shunting services",
+                "moreRoutes" : "no",
+                "path" : "/services/shunting"
+            },
+            {
+                "index" : 22,
+                "menuName" : "Local services",
+                "moreRoutes" : "no",
+                "path" : "/services/local"
+            },
+            {
+                "index" : 23,
+                "menuName" : "Linehaul services",
+                "moreRoutes" : "no",
+                "path" : "/services/linehaul-ontario-and-quebec"
+            },
+            {
+                "index" : 24,
+                "menuName" : "Our Advantage",
+                "moreRoutes" : "no",
+                "path" : "/services/advantage"
+            }
+
+        ]
+    },
+    {
+        "index" : 2,
+        "menuName" : "Fleet",
+        "moreRoutes" : true,
+        "path" : "/fleet/profile",
+        "subRoutes" : [
+            {
+                "index" : 31,
+                "menuName" : "Profile",
+                "moreRoutes" : "no",
+                "path" : "/fleet/profile"
+            },
+            {
+                "index" : 32,
+                "menuName" : "Dry Fleets",
+                "moreRoutes" : "no",
+                "path" : "/fleet/dry"
+            },
+            {
+                "index" : 33,
+                "menuName" : "Refrigerated Fleets",
+                "moreRoutes" : "no",
+                "path" : "/fleet/refrigerated"
+            },
+            {
+                "index" : 34,
+                "menuName" : "Features and Safety",
+                "moreRoutes" : "no",
+                "path" : "/fleet/features-and-safety"
+            },
+            {
+                "index" : 35,
+                "menuName" : "Maintenance and Sustainability",
+                "moreRoutes" : "no",
+                "path" : "/fleet/maintenance"
+            }
+
+        ]
+    },
+    {
+        "index" : 3,
+        "menuName" : "Contact",
+        "moreRoutes" : false,
+        "path" : "/contact"
+    }
+]
